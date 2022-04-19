@@ -45,4 +45,4 @@ Googleのサービス（GmailやYouTubeなど）にログインしているな�
 
 以下のURLからフォームに回答する形でレポートを提出
 
-https://forms.gle/SE1a6ZjDbjqajKfL8
+https://forms.gle/gdmiVHiCL5wDYRDZ7
