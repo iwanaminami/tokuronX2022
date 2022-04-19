@@ -18,20 +18,13 @@
 https://iblab.bio.nagoya-u.ac.jp/members/detail/s.iwanami
 
 
-## Slidoを使ったコメント
-
-以下からアクセスすることで匿名のコメントを送ることができます。
-
-https://app.sli.do/event/urijfjia
-
-## ワークショップ（4限予定）
+## ワークショップ（5限予定）
 
 ### 補助資料
 
 ワークショップで使用するGoogle Colabratoryのファイルがあります。
 
 以下から開けます。  
-（2021年11月9日アップデート）
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/tokuronX2021/blob/main/SIR_update.ipynb)
 
@@ -48,7 +41,7 @@ Googleのサービス（GmailやYouTubeなど）にログインしているな�
 
 ## レポート
 
-締め切り：2021年11月16日(火)
+締め切り：2022年4月29日(金)
 
 以下のURLからフォームに回答する形でレポートを提出
 
